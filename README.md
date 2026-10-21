@@ -1,0 +1,1 @@
+vista: nueva pagina
